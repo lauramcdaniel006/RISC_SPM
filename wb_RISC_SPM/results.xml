@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1652064714" />
+    <testcase name="test_all" classname="test_wb" file="/home/MSUCAP/la.mcdaniel/test/vlsi-cad/6_wishbone/wb_RISC_SPM/test_wb.py" lineno="34" time="0.012460947036743164" sim_time_ns="490001.0" ratio_time="39322934.168257914" />
+  </testsuite>
+</testsuites>
